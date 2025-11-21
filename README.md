@@ -12,7 +12,7 @@
 
 # PROGRAM:
 
-__LOW-PASS PIR FILTER__
+__LOW-PASS FIR FILTER__
 
 ```c
 clc;
@@ -111,7 +111,7 @@ title('Phase Response');
 
 # OUTPUT:
 
-__LOW-PASS PIR FILTER__
+__LOW-PASS FIR FILTER__
 
 
 <img width="809" height="411" alt="4L" src="https://github.com/user-attachments/assets/23aa70eb-2c20-4fdf-ab66-dd5b3cb75b7f" />
